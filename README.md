@@ -1,7 +1,7 @@
 
 # Thumbhelix device
 
-*** Thumbhelix device rev1 has some issues. If you are going to build it, it is not recommended. Please wait for rev2. ***
+** Thumbhelix device rev1 has some issues. If you are going to build it, it is not recommended. Please wait for rev2. **
 
 ![photograph](https://raw.githubusercontent.com/yskoht/thumbhelix_device/images/thumbhelix.jpg)
 
