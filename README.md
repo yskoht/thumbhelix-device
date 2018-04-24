@@ -1,5 +1,5 @@
 
 # Thumbhelix device
 
-![photograph](https://raw.githubcontent.com/yskoht/thumbhelix_device/images/thumbhelix.jpg)
+![photograph](https://raw.githubusercontent.com/yskoht/thumbhelix_device/images/thumbhelix.jpg)
 
