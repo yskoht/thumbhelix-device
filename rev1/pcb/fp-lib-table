@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Joystick)(type KiCad)(uri "$(KIPRJMOD)\\Joystick.pretty")(options "")(descr ""))
+  (lib (name Atmel)(type KiCad)(uri "$(KIPRJMOD)\\Atmel.pretty")(options "")(descr ""))
+  (lib (name Keyswitch)(type KiCad)(uri "$(KIPRJMOD)\\Keyswitch.pretty")(options "")(descr ""))
+  (lib (name Conn)(type KiCad)(uri "$(KIPRJMOD)\\Conn.pretty")(options "")(descr ""))
+  (lib (name Hole)(type KiCad)(uri "$(KIPRJMOD)\\Hole.pretty")(options "")(descr ""))
+)
