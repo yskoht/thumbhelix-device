@@ -1,3 +1,0 @@
-
-# Thumbhelix device
-
