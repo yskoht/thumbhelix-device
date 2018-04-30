@@ -12,11 +12,6 @@ About Thumbhelix software, please see the following.
 - [yskoht/thumbhelix: Thumb extension for Helix](https://github.com/yskoht/thumbhelix)
 
 
-## Parts list
-
-under construction
-
-
 ## License
 
 This software is released under the MIT License, see LICENSE.
